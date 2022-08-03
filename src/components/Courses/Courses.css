@@ -1,0 +1,11 @@
+.brochure__button {
+  margin: 10px 0px;
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  border: none;
+}
+.brochure__button:hover {
+  color: white;
+}
